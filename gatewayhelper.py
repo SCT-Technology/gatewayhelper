@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# 这是一个python程序
 x,z =map(int,input('输入x z:').split())
 lenth = (x*x+z*z) ** 0.5
 x_new1 = 768*x/lenth
